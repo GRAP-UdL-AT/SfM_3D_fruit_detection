@@ -38,6 +38,9 @@ This project is contributed by [GRAP-UdL-AT](https://www.grap.udl.cat/en/).
 
 Please contact authors to report bugs @ jordi.genemola@udl.cat
 
+## Acknowledgements
+
+This work was partly funded by the Spanish Ministry of Science, Innovation and Universities (grant RTI2018-094222-B-I00[[PAgFRUIT project]]( https://www.pagfruit.udl.cat/en/) by MCIN/AEI/10.13039/501100011033 and by “ERDF, a way of making Europe”, by the European Union).
 
 ## Citation
 
