@@ -38,11 +38,7 @@ This project is contributed by [GRAP-UdL-AT](https://www.grap.udl.cat/en/).
 
 Please contact authors to report bugs @ jordi.genemola@udl.cat
 
-## Acknowledgements
-
-This work was partly funded by the Spanish Ministry of Science, Innovation and Universities (grant RTI2018-094222-B-I00[[PAgFRUIT project]]( https://www.pagfruit.udl.cat/en/) by MCIN/AEI/10.13039/501100011033 and by “ERDF, a way of making Europe”, by the European Union).
-
-## Citation
+### Citation
 
 If you find this implementation or the analysis conducted in our report helpful, please consider citing:
 
@@ -61,3 +57,7 @@ If you find this implementation or the analysis conducted in our report helpful,
         Year = {2020}
         doi = { https://doi.org/10.1016/j.dib.2020.105591}
     }
+
+
+## Acknowledgements
+This work was partly funded by the Spanish Ministry of Science, Innovation and Universities (grant RTI2018-094222-B-I00[[PAgFRUIT project]]( https://www.pagfruit.udl.cat/en/) by MCIN/AEI/10.13039/501100011033 and by “ERDF, a way of making Europe”, by the European Union).
